@@ -1,5 +1,5 @@
 # Arduino-Irrigation_System
- water  plants according to the level of moisture in the soil .
+ WATER PLANTS ACCORDING TO THE LEVEL OF MOISTURE IN THE SOIL
 
 About:
 It operates by constantly monitoring the moisture level in the soil where a plant is situated. .It accomplishes this by employing a soil moisture sensor connected to an Arduino microcontroller. The system categorizes soil moisture levels as either dry, moderately moist, or wet based on sensor data. When the soil is recognized as dry, the system activates a water pump through a relay module, delivering water to the plant.
