@@ -17,6 +17,7 @@ void setup() {
 }
 
 void loop() {
+  //the microcontroller samples the voltage on the specified pin and converts it into a digital value between 0 and 1023 based on the 10-bit ADC.
   int sensor_data = analogRead(sensor_pin); // read the analog value from the soil moisture sensor
 
   printMoisturePercentage(sensor_data);
