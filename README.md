@@ -15,5 +15,5 @@ It operates by constantly monitoring the moisture level in the soil where a plan
  8. Screwdriver
 
  Wiring:
-Sensor to Arduino: VCC to Vin,GND to GND and A0 to A0 .Relay to Arduino: VCC to 5V ,GND to GND ,IN to D2 . Relay to Water pump: COM terminal of the relay connect with the (+) terminal of the battery and NO terminal of the relay connects  , NO terminal of the relay connects with the red wire of the water pump.In the end connect the water pump with the (-) terminal of the battery.
+Sensor to Arduino: VCC to 3.3V,GND to GND and A0 to A0 .Relay to Arduino: VCC to 5V ,GND to GND ,IN to D2 . Relay to Water pump: COM terminal of the relay connect with the (+) terminal of the battery and NO terminal of the relay connects  , NO terminal of the relay connects with the red wire of the water pump.In the end connect the water pump with the (-) terminal of the battery.
  
